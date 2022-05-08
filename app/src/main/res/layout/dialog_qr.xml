@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:background="@drawable/shape_rectangle_white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/iv_qr"
+        android:layout_width="185dp"
+        android:layout_height="185dp"
+        android:layout_marginBottom="10dp"
+        app:srcCompat="@drawable/ic_qrcode" />
+
+    <TextView
+        android:id="@+id/tv_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="17dp"
+        android:text="Silahkan melakukan scanning pada counter tiket terdekat" />
+
+    <Button
+        android:id="@+id/btn_close"
+        android:paddingLeft="26dp"
+        android:paddingRight="26dp"
+        android:background="@drawable/shape_rectangle_blue_grey"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        app:backgroundTint="@null"
+        android:text="TUTUP" />
+</LinearLayout>

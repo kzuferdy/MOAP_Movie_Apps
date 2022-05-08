@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21965322065",
+    "project_id": "moapmovieapps",
+    "storage_bucket": "moapmovieapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21965322065:android:fb71fd4d5021d5402f0570",
+        "android_client_info": {
+          "package_name": "com.kzuferdy.moapmovieapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21965322065-6i2n9od0dec37t1ib5gr656rqlvfdpv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYdCb5diyIdPt-LNVn_wBZtnjSpMq620"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21965322065-6i2n9od0dec37t1ib5gr656rqlvfdpv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
